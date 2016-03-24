@@ -1,8 +1,8 @@
 # Jabber & Moha
 
 1.	Au démarrage du programme :
--	Veuillez renseigner l’adresse IP de la cible à attaquer
--	Veuillez renseigner le port de la cible à attaquer
+-	Veuillez renseigner l’adresse IP du serveur C&C
+-	Veuillez renseigner le port du serveur C&C
 
 2.	Vous arrivez sur « Command » :
 -	Vous aurez 5 choix possibles :
