@@ -1,4 +1,4 @@
-# Jabber && Moha
+# Jabber & Moha
 
 1.	Au démarrage du programme :
 -	Veuillez renseigner l’adresse IP de la cible à attaquer
